@@ -5,13 +5,14 @@ Deploy a Sample NGINX Website on EC2 Server - EC2 Assignment 1
 
 You work for XYZ Corporation. Your corporation wants to launch a new web-based application Using AWS Virtual Machines, configure the resources accordingly for the tasks.
 
-You are asked to perform the following tasks:
+**You are asked to perform the following tasks:**
 
 1. Create an Instance in us-east-1 (N. Virginia) region with an Ubuntu OS and install Nginx for making them web servers.
 
 2. Change the default website with a page displaying the message “Hello World”.
 
 
+**Solution:**
 
 **Step 1:** Create an EC2 Instance & Update the machine.
 
