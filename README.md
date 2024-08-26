@@ -30,4 +30,4 @@ You work for XYZ Corporation. Your corporation wants to launch a new web-based a
 
 **Step 8:** Again, refresh the public IP Address, your created web page will be shown.
 
-**For the detailed solution to this assignment, click this link:** https://medium.com/devops-guides/deploy-a-sample-nginx-website-on-ec2-server-ec2-assignment-1-8c2b713d9459
+**For the detailed solution to this assignment, click on this link:** https://medium.com/devops-guides/deploy-a-sample-nginx-website-on-ec2-server-ec2-assignment-1-8c2b713d9459
