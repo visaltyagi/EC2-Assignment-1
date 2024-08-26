@@ -1,7 +1,16 @@
 # EC2-Assignment-1
 Deploy a Sample NGINX Website on EC2 Server - EC2 Assignment 1
 
-**For the detailed solution to this assignment, click this link:** https://medium.com/devops-guides/deploy-a-sample-nginx-website-on-ec2-server-ec2-assignment-1-8c2b713d9459
+**Problem Statement:**
+
+You work for XYZ Corporation. Your corporation wants to launch a new web-based application Using AWS Virtual Machines, configure the resources accordingly for the tasks.
+
+You are asked to perform the following tasks:
+
+1. Create an Instance in us-east-1 (N. Virginia) region with an Ubuntu OS and install Nginx for making them web servers.
+
+2. Change the default website with a page displaying the message “Hello World”.
+
 
 **Step 1:** Create an EC2 Instance & Update the machine.
 
@@ -18,3 +27,5 @@ Deploy a Sample NGINX Website on EC2 Server - EC2 Assignment 1
 **Step 7:** Paste the code & save the file.
 
 **Step 8:** Again, refresh the public IP Address, your created web page will be shown.
+
+**For the detailed solution to this assignment, click this link:** https://medium.com/devops-guides/deploy-a-sample-nginx-website-on-ec2-server-ec2-assignment-1-8c2b713d9459
