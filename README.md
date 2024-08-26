@@ -11,7 +11,6 @@ You are asked to perform the following tasks:
 
 2. Change the default website with a page displaying the message “Hello World”.
 
-   
 
 
 **Step 1:** Create an EC2 Instance & Update the machine.
